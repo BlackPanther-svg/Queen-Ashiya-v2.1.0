@@ -10,13 +10,9 @@
 
 ### Setup
 
-1. Click [[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/Zimbot-v3-QR?v=1)
+1. Click [𝚂𝙲𝙰𝙽](https://replit.com/@ReinhardTuna/ZIM-BOT-INC-QR?v=1?outputonly=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
-
- and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-
-2. You will get a session id in whatsapp, copy id only.
+2. You will get a session 𝚏𝚒𝚕𝚎 in whatsapp, 𝚊𝚍𝚍 𝚜𝚎𝚜𝚜𝚒𝚊𝚗 𝚏𝚒𝚕𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 

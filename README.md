@@ -11,9 +11,7 @@
 
 ### Setup
 
-1. Click [[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/Zimbot-v3-QR?v=1)
-
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+1. . Click [𝚂𝙲𝙰𝙽](https://replit.com/@ReinhardTuna/ZIM-BOT-INC-QR?v=1?outputonly=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 
  and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 

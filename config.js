@@ -32,19 +32,19 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': '7A012A0F7751',
+	'https://zenzapi.xyz': '0b0df72a76',
 	'https://dapuhy.xyz': 'piceg'
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
+global.owner = ['94741671668','']
+global.premium = ['94741671668','941671668']
+global.botname = 'Queen Ashiya V2🌹⃝⃘̉̉̉̉̉̉🧚'
 global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.group1 = 'https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP'
+global.group2 = 'https://chat.whatsapp.com/FL2OqqLOxOOFN9Zw6nYXtZ'
+global.packname = 'Queen Ashiya V2🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ytchannel = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,13 +65,13 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'Queen Ashiya V2🌹⃝⃘̉̉̉̉̉̉🧚'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
+    success: '*success whoa✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     horny: '*nsfw is disabled please ask owner to enable it*',
     admin: '*this cmd is for admin only , l can feel you but sorry okay*',
@@ -80,7 +80,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait Queen Ashiya V2🌹⃝⃘̉̉̉̉̉̉🧚 processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
